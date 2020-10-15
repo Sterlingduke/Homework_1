@@ -2,7 +2,8 @@
 
 ## Description 
 Horiseon is a multi-leveled marketing group that uses leading edge technology platforms and practical experience and a proven track record to make any business grow in a ever changing world. Horiseon provides proven effeciancy through SEO, Online Managment and Social Media Marketing.  
-
+ 
+ 
 
 ## Table of Contents
 * [Description ](#Description )
