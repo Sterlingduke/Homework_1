@@ -1,12 +1,12 @@
 # Horiseon Marketing Group 
 
 ## Description 
-psdkfopsdhfphsdpfhpidhfpishadfpihasdPIFHpidhfpiashdfpihaDSPIFHPAISDHFPIHASDF
-S'DPKFHPAisdhfpihdf
-spdKFH[Opaisdhfoiahdsfoibedfiobadibcopiabdfoibadf
-adknfbpaidbfpiadfpibqpbdefpiabdpoifboapindfoinaopdinfoaibdfbadf]] ajdsbvouabdofbcoaubdf]\
-ajdbfoabdfbaodbfoabdfobadlfboadbfojbadofjba'
-akodbfoiabdlknadkcnoaooidhfouhajkfojbaa idhfoi adifhoiadhf hliausdfgoakbdfgv ouasdfawefrfbiag87fgkhahg oeigfihavdfkjbiuGDETGAT A== That going to be a long tie waiting in the history f the soldier life aslo known as company man that we will only share the things that make me happ0hojbdshfugdf. 
+Horiseon is a multi-leveled marketing group that uses leading edge technology platforms and practical experience and a proven track record to make any business grow in a ever changing world. Horiseon provides proven effeciancy through SEO, Online Managment and Social Media Marketing. 
+
+## Project Status
+prototype
+
+
 
 ## Table of Contents (Optional)
 
