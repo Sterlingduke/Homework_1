@@ -17,7 +17,7 @@ Horiseon is a multi-leveled marketing group that uses leading edge technology pl
 * THEN I find a concise, descriptive title
 
 ## Screenshot
-![](../images/
+![ss](./assets/images/Horiseonsite.png)
 
 
 ## Project Status
