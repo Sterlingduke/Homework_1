@@ -14,6 +14,7 @@ Header {
     background-color: #2a607c;
     color: #ffffff;
 }
+/* In this section the Div tag was changed to header this allowed me to change the CSS file tags to Header*/
 
 Header h1 {
     display: inline-block;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This figure element was change from a complex (div/class) to a semantc figure*/
 figure {
     height: 800px;
     width: 100%;
@@ -68,13 +69,13 @@ figure {
     float: right;
     margin-left: 25px;
 }
-
+/*changed Div tag to Article with Section tags inside for more semantic element*/
 article{
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Changed Div Tag to Aside to be more semantic */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -85,7 +86,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidtad all the classes into 1 master class */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
